@@ -1,2 +1,2 @@
-# hola-mundo-en-java
+# ejercicios-pseint
 Mi primer repositorio
