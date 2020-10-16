@@ -10,6 +10,6 @@ Algoritmo Conversor_de_Euros_a_Pesetas
 	Escribir "Introduzca la cantidad de Euros que quiere convertir.";
 	Leer euros;
 	resultado := euros*pesetas;
-	Escribir euros, " son ", resultado, " pesetas.";
+	Escribir euros, " Euros son ", resultado, " Pesetas.";
 	
 FinAlgoritmo
